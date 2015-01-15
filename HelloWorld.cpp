@@ -1,7 +1,5 @@
 #include <iostream>
 
 int main(){
-	std::cout << "HelloWorld!" << std::endl;
-	std::cout << "Hello" << std::endl;
-	// comment1
+	std::cout << "FightOn!" << std::endl;
 }
